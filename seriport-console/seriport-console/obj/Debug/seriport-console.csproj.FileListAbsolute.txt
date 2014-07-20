@@ -1,0 +1,6 @@
+C:\Users\gokhan\Desktop\csharp-console-serialport\seriport-console\seriport-console\bin\Debug\seriport-console.exe.config
+C:\Users\gokhan\Desktop\csharp-console-serialport\seriport-console\seriport-console\bin\Debug\seriport-console.exe
+C:\Users\gokhan\Desktop\csharp-console-serialport\seriport-console\seriport-console\bin\Debug\seriport-console.pdb
+C:\Users\gokhan\Desktop\csharp-console-serialport\seriport-console\seriport-console\obj\Debug\seriport-console.exe
+C:\Users\gokhan\Desktop\csharp-console-serialport\seriport-console\seriport-console\obj\Debug\seriport-console.pdb
+C:\Users\gokhan\Desktop\csharp-console-serialport\seriport-console\seriport-console\obj\Debug\seriport-console.csprojResolveAssemblyReference.cache
